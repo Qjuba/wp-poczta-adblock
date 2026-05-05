@@ -1,0 +1,1 @@
+# wp-poczta-adblock-popup-skip
