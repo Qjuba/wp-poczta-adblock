@@ -26,6 +26,8 @@ Userscript dla [poczta.wp.pl](https://poczta.wp.pl), który automatycznie pomija
 
 3. Upewnij się, że skrypt jest włączony i odwiedź [poczta.wp.pl](https://poczta.wp.pl)
 
+> Alternatywnie, możesz kliknąć w plik wp-poczta-adblock.user.js w widoku Raw na GitHubie — wtyczka automatycznie zaproponuje instalację.
+
 ---
 
 ## Licencja
