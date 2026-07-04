@@ -21,12 +21,10 @@ Userscript dla [poczta.wp.pl](https://poczta.wp.pl), który automatycznie pomija
 1. Zainstaluj rozszerzenie do zarządzania userscriptami:
    - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox)
    - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge, Safari)
-
 2. Utwórz nowy userscript i wklej zawartość pliku `wp-poczta-adblock.user.js`
-
 3. Upewnij się, że skrypt jest włączony i odwiedź [poczta.wp.pl](https://poczta.wp.pl)
 
-> Alternatywnie, możesz kliknąć w plik wp-poczta-adblock.user.js w widoku Raw na GitHubie — wtyczka automatycznie zaproponuje instalację.
+Alternatywnie, możesz kliknąć w plik [wp-poczta-adblock.user.js](https://github.com/Qjuba/wp-poczta-adblock/raw/refs/heads/main/wp-poczta-adblock.user.js) w widoku Raw na GitHubie — wtyczka automatycznie zaproponuje instalację.
 
 ---
 
